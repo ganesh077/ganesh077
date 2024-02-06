@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ganesh Thampi</h1>
 <h3 align="center">Experienced IT Professional with Cloud Development and Software Engineering Expertise</h3>
-<img src="DevOps-new.gif" width="800" height="300">
+<img src="DevOps-new.gif" width="850" height="350">
 
 - 🔭 I’m currently working on **building CI/CD pipelines, containerization, orchestration**
 
