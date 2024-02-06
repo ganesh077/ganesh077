@@ -2,7 +2,7 @@
 <h3 align="center">Experienced IT Professional with Cloud Development and Software Engineering Expertise</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh077&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh077" /> </p>
-<img src="DevOps-new.gif" width="1000" height="500">
+<img src="DevOps-new.gif" width="800" height="500">
 
 - 🔭 I’m currently working on **building CI/CD pipelines, containerization, orchestration**
 
