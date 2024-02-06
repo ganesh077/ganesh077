@@ -2,15 +2,15 @@
 <h3 align="center">Experienced IT Professional with Cloud Development and Software Engineering Expertise</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh077&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh077" /> </p>
-<img src="DevOps-new.gif" width="1000" height="300">
+<img src="DevOps-new.gif" width="900" height="300">
 
 - 🔭 I’m currently working on **building CI/CD pipelines, containerization, orchestration**
 
-- 🌱 I’m currently learning **Azure Devops, Grafana, RabbitMQ**
+- 🌱 I’m currently learning **Azure DevOps, Grafana, RabbitMQ**
 
 - 👯 I’m looking to collaborate on **Cloud migration projects**
 
-- 🤝 I’m looking for help with **guidence on Devops Career**
+- 🤝 I’m looking for help with **guidance on Devops Career**
 
 - 💬 Ask me about **DevOps, Cloud, AI**
 
