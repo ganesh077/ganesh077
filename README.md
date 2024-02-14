@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ganesh Thampi</h1>
 <h3 align="center">Experienced IT Professional with Cloud Development and Software Engineering Expertise</h3>
-<img src="DevOps-new.gif" width="850" height="350">
 
 - 🔭 I’m currently working on **building CI/CD pipelines, containerization, orchestration**
 
@@ -12,7 +11,7 @@
 
 - 💬 Ask me about **DevOps, Cloud, AI**
 
-- 📫 How to reach me **ganeshthampi077@gmail.com**
+- 📫 How to reach me **ganeshthampi4@gmail.com**
 
 - ⚡ Fun fact **I write and play my own music!**
 
