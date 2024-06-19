@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ganesh Thampi</h1>
 <h3 align="center">Experienced IT Professional with Cloud Development and Software Engineering Expertise</h3>
 
-- 🔭 I’m currently working on **building CI/CD pipelines, containerization, orchestration**
+- 🔭 I’m currently working on **building data pipelines, containerization, orchestration**
 
-- 🌱 I’m currently learning **Azure DevOps, Grafana, RabbitMQ**
+- 🌱 I’m currently learning **AWS Data Engineering ecosystem**
 
 - 👯 I’m looking to collaborate on **Cloud migration projects**
 
 - 🤝 I’m open to Job Opportunities, both **Full-time or Contract**
 
-- 💬 Ask me about **DevOps, Cloud, AI**
+- 💬 Ask me about **Data Engineering, Cloud, AI**
 
 - 📫 How to reach me **ganeshthampi4@gmail.com**
 
