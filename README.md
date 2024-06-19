@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ganesh Thampi</h1>
-<h3 align="center">Experienced IT Professional with Cloud Development and Software Engineering Expertise</h3>
+<h3 align="center">Experienced IT Professional with Data and Software Engineering Expertise</h3>
 
 - 🔭 I’m currently working on **building data pipelines, containerization, orchestration**
 
