@@ -1,19 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ganesh Thampi</h1>
 <h3 align="center">Experienced IT Professional with Data and Software Engineering Expertise</h3>
 
-- 🔭 I’m currently working on **building data pipelines, containerization, orchestration**
-
-- 🌱 I’m currently learning **AWS Data Engineering ecosystem**
-
-- 👯 I’m looking to collaborate on **Cloud migration projects**
-
-- 🤝 I’m open to Job Opportunities, both **Full-time or Contract**
-
-- 💬 Ask me about **Data Engineering, Cloud, AI**
-
-- 📫 How to reach me **ganeshthampi4@gmail.com**
-
-- ⚡ Fun fact **I write and play my own music!**
+- Hello!
+I am a software engineer with expertise in Data Engineering and Cloud Computing, I am passionate about creating innovative and scalable solutions that leverage cutting-edge technologies and best practices. I hold three Microsoft Azure certifications, as well as two Ontario Graduate Certificates in Enterprise Software Development and Cloud Computing from Humber College.
+Currently pursuing my Master's in Software Engineering from San Jose State University.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
